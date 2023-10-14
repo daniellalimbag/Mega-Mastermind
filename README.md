@@ -1,4 +1,6 @@
 # Mega-Mastermind
+Logic Formulation and Introductory Programming (CCPROG1)
+Machine Project
 This game is the predecessor of the modern-day mobile game “Wordle”. The code-breaking game Mastermind or Master Mind is for two players. It mimics an old game called Bulls and Cows played with a pencil and paper which dates approximately 100 years ago. (A Brief History of the Master Mind Board Game., 2022)
 The classic game is played with:
 • a board game with a shield covering a row of four large holes at one end and twelve (or ten, or eight, or six) further rows of four large holes adjacent to four little holes;
